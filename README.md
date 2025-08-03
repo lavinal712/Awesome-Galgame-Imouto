@@ -106,7 +106,15 @@
 | Game | Name | Type |
 | --- | --- | --- |
 | 星空的记忆 | 小河坂千波 | 实妹 |
+
+<details>
+  <summary>剧透</summary>
+
+| Game | Name | Type |
+| --- | --- | --- |
 | 星辰恋曲的白色永恒 | 萤铃音 | 实妹 |
+
+</details>
 
 ## feng
 
