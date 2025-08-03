@@ -254,12 +254,17 @@
 | Game | Name | Type |
 | --- | --- | --- |
 | 缘之空 | 春日野穹 | 实妹 |
+| Berry's | 宝交祐佳 | 实妹 |
+
 <details>
-  <summary>| - | - | - |</summary>
+  <summary>剧透</summary>
+
+| Game | Name | Type |
+| --- | --- | --- |
 | 妹之形 | 濑名美优树 | 实妹 |
 | - | 清宫真结希 | 实妹 |
+
 </details>
-| Berry's | 宝交祐佳 | 实妹 |
 
 ## UGUISU KAGURA (纸魔社)
 
