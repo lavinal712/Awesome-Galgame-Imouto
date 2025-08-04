@@ -297,7 +297,16 @@
 | 纸上的魔法使 | 月社妃 | 实妹 |
 | 水葬银币的伊斯特里亚 | 茅崎夕樱 | 实妹 |
 | 印刻天际的Parallelogram | 宝生玻璃 | 实妹 |
+
+<details>
+  <summary>剧透</summary>
+
+| Game | Name | Type |
+| --- | --- | --- |
 | 冥契的牧神节 | 天使奈奈菜 | 义妹 |
+| - | 折原冰狐 | 实妹 |
+
+</details>
 
 ## Whirlpool (漩涡社)
 
